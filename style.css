@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-image: url(game.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+}
+
+
+
+
+h2 {
+    color: white;
+    font-family: monospace;
+    
+}
+
+button {
+    font-size: 20px;
+}
+
+
+h1 {
+    text-transform: uppercase;
+}
